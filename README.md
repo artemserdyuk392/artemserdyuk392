@@ -3,7 +3,7 @@
 | В активном поиске места работы/стажировки. 
 <br/><br/>
 <div id="badges">
-  <a href="[https://www.linkedin.com/in/maria-luchkova-375ba9269/](https://www.linkedin.com/in/artem-serdyuk-471bba2b3/)">
+  <a href="https://www.linkedin.com/in/artem-serdyuk-471bba2b3/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge)"/>
   </a>
   <a href="https://docs.google.com/document/d/11CJ7Y5QVFH_Q7RSbcpBA26nOZlrY0FPA/edit?usp=sharing&ouid=104156075412823077226&rtpof=true&sd=true)">
