@@ -1,6 +1,8 @@
 # Артём Сердюк / Artem Serdyuk
 :round_pushpin: Воронеж
 | В активном поиске места работы/стажировки. 
+
+Немного о себе: больше всего нравится анализировать данные, обучать нейросети, проводить гипотезы. Мечтаю поработать с Computer Vision.
 <br/><br/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/artem-serdyuk-471bba2b3/">
