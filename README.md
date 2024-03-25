@@ -2,13 +2,6 @@
 :round_pushpin: Воронеж
 | В активном поиске места работы/стажировки. 
 
-Немного о себе: нравится анализировать данные, обучать нейросети, проводить гипотезы. Планирую поработать с Computer Vision.
-
-Также немного увлекаюсь экономикой. Недавно вместе со своим преподавателем по Экономической Теории выпустил статью по неформальной экономике в России (я писал, она удаляла лишнее). УДК 330.101 - с 263 страницы.
-
-Можете ознакомиться по ссылке: https://drive.google.com/file/d/1cpZgcga9xA-80E0qwmyd92PVFAl9Lc_6/view?usp=share_link
-
-<br/><br/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/artem-serdyuk-471bba2b3/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge)"/>
@@ -23,6 +16,15 @@
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/>
   </a>
 </div>
+
+Немного о себе: нравится анализировать данные, обучать нейросети, проводить гипотезы. Планирую поработать с Computer Vision.
+
+Также немного увлекаюсь экономикой. Недавно вместе со своим преподавателем по Экономической Теории выпустил статью по неформальной экономике в России (я писал, она удаляла лишнее). УДК 330.101 - с 263 страницы.
+
+Можете ознакомиться по ссылке: https://drive.google.com/file/d/1cpZgcga9xA-80E0qwmyd92PVFAl9Lc_6/view?usp=share_link
+
+<br/><br/>
+
 
 ###  Обучение:
 | Название | Год |
