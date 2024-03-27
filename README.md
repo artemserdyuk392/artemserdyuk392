@@ -62,3 +62,10 @@
 | 13. (Учебный) [Прогнозирование стоимости жилья в жилом массиве](https://github.com/artemserdyuk392/yandex_practicum_projects/tree/main/predict_house_cost) | Площадки объявлений, интернет-сервисы, оффлайн | Big Data, машинное обучение, регрессия | <img src="https://img.shields.io/badge/Sklearn-black?style=flat-square&logo=scikitlearn&logoColor=orange"/> <img src="https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=orange"/> <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/>, SeaBorn, PySpark
 | 14. (Учебный) [Защита персональных данных клиентов](https://github.com/artemserdyuk392/yandex_practicum_projects/tree/main/personal_data_protection) | Банковская сфера, инвестиции, интернет-сервисы, телеком | Машинное обучение | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/> <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/> <img src="https://img.shields.io/badge/Sklearn-black?style=flat-square&logo=scikitlearn&logoColor=orange"/>, Math |
 | 15. (Учебный) [Предсказание стоимости автомобилей](https://github.com/artemserdyuk392/yandex_practicum_projects/tree/main/car_price_predict) | Интернет-сервисы, интернет-магазины, бизнес | Машинное обучение | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>,<img src="https://img.shields.io/badge/Sklearn-black?style=flat-square&logo=scikitlearn&logoColor=orange"/> <img src="https://img.shields.io/badge/LightGBM-black?style=flat-square"/>, SeaBorn |
+
+<div>
+    <img src=pics/p1.PNG?raw=true "Title" width="330" height="255"/>
+  </a>
+    <img src=pics/p2.PNG?raw=true "Title" width="330" height="250"/>
+  </a>
+</div>
