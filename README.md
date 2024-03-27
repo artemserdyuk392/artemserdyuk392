@@ -64,8 +64,8 @@
 | 15. (Учебный) [Предсказание стоимости автомобилей](https://github.com/artemserdyuk392/yandex_practicum_projects/tree/main/car_price_predict) | Интернет-сервисы, интернет-магазины, бизнес | Машинное обучение | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>,<img src="https://img.shields.io/badge/Sklearn-black?style=flat-square&logo=scikitlearn&logoColor=orange"/> <img src="https://img.shields.io/badge/LightGBM-black?style=flat-square"/>, SeaBorn |
 
 <div>
-    <img src=pics/p1.png?raw=true "Title" width="330" height="350"/>
+    <img src=pics/p1.png?raw=true "Title" width="530" height="650"/>
   </a>
-    <img src=pics/p2.png?raw=true "Title" width="330" height="350"/>
+    <img src=pics/p2.png?raw=true "Title" width="530" height="650"/>
   </a>
 </div>
