@@ -3,6 +3,7 @@
 | В активном поиске места работы/стажировки. 
 
   Моё резюме - 
+  
   <a href="https://drive.google.com/file/d/1IPVxvFdThre8YtAquWJrnlUX8ri8cTA6/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/></a>
 
