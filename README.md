@@ -2,8 +2,9 @@
 :round_pushpin: Воронеж
 | В активном поиске места работы/стажировки. 
 
-  <a href="https://drive.google.com/file/d/1IPVxvFdThre8YtAquWJrnlUX8ri8cTA6/view?usp=sharing">
-    <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/></a> РЕЗЮМЕ
+  Моё резюме - <a href="https://drive.google.com/file/d/1IPVxvFdThre8YtAquWJrnlUX8ri8cTA6/view?usp=sharing">
+    <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/></a>
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/artem-serdyuk-471bba2b3/">
