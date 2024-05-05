@@ -25,6 +25,13 @@
 Можете ознакомиться по ссылке: https://drive.google.com/file/d/1cpZgcga9xA-80E0qwmyd92PVFAl9Lc_6/view?usp=share_link
 <br/><br/>
 
+<div>
+<img src=pics/p4.png?raw=true "Title" width="200" height="200"/>
+  </a>
+<img src=pics/p5.png?raw=true "Title" width="200" height="200"/>
+  </a>
+</div>
+
 ###  Инструменты:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -34,12 +41,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<div>
-<img src=pics/p4.png?raw=true "Title" width="200" height="200"/>
-  </a>
-<img src=pics/p5.png?raw=true "Title" width="200" height="200"/>
-  </a>
-</div>
+
 ###  Обучение:
 | Название | Год |
 | :--------: | :-------: |
