@@ -35,7 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <div>
-<img src=pics/p4.png?raw=true "Title" width="150" height="200"/>
+<img src=pics/p4.png?raw=true "Title" width="200" height="200"/>
   </a>
 <img src=pics/p5.png?raw=true "Title" width="200" height="200"/>
   </a>
